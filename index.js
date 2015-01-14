@@ -14,9 +14,9 @@ var defaultGreeting =
   '\n    |       |    ' +
   '\n    |' + chalk.red('--(o)--') + '|    ' +
   '\n   `---------´   ' +
-  '\n    ' + chalk.yellow('(') + ' _' + chalk.yellow('´U`') + '_ ' + chalk.yellow(')') + '    ' +
-  '\n    /___A___\\    ' +
-  '\n     ' + chalk.yellow('|  ~  |') + '     ' +
+  '\n    ' + chalk.yellow('(') + ' _' + chalk.yellow('´U`') + '_ ' + chalk.yellow(')') + '   O' +
+  '\n    /___A___\\  o ' +
+  '\n     ' + chalk.yellow('|  ~  |') + ' .   ' +
   '\n   __' + chalk.yellow('\'.___.\'') + '__   ' +
   '\n ´   ' + chalk.red('`  |') + '° ' + chalk.red('´ Y') + ' ` ';
 
